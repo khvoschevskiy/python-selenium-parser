@@ -1,2 +1,3 @@
-# python-selenium-parser
-parser for service.nalog.ru by OrganizationName
+ATTENTION!ATTENTION!ATTENTION!ATTENTION!ATTENTION!ATTENTION!
+ATTENTION!  before usage cheking file robots.txt  ATTENTION!
+ATTENTION!ATTENTION!ATTENTION!ATTENTION!ATTENTION!ATTENTION!
